@@ -1,6 +1,3 @@
-# LibraryManagementSystem
-A Java console application for managing books, members, and borrowing operations in a library using OOP techniques.
-
 # Library Management System 📚
 
 A console-based Java application that allows a librarian to manage books, members, and lending operations.
